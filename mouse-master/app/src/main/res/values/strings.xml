@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="label_light">Accelerometer Sensor: %1$.2f %2$.2f %3$.2f</string>
+    <string name="error_no_sensor">No sensor</string>
+</resources>
